@@ -42,16 +42,16 @@
   "SharedAssemblyName": "DirRX.SubsToDocChanges.Shared",
   "SharedNamespace": "DirRX.SubsToDocChanges.Shared",
   "SpecialFolders": [],
-  "Version": "0.0.1.3",
+  "Version": "0.0.1.4",
   "Widgets": [],
   "Versions": [
     {
       "Type": "SolutionMetadata",
-      "Number": 8
+      "Number": 9
     },
     {
       "Type": "ModuleMetadata",
-      "Number": 8
+      "Number": 9
     },
     {
       "Type": "DomainApi",
