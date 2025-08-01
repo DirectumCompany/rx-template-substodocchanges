@@ -43,7 +43,6 @@
       "ItemId": "6fd9f10f-0612-42e5-a939-2b9f5a8d3ed0"
     }
   ],
-  "IconResourcesKeys": [],
   "Importance": "Medium",
   "InterfaceAssemblyName": "Sungero.Domain.Interfaces",
   "InterfaceNamespace": "DirRX.SubsToDocChangesTemplate",
@@ -162,7 +161,6 @@
   ],
   "ResourceInterfaceAssemblyName": "Sungero.Domain.Interfaces",
   "ResourceInterfaceNamespace": "DirRX.SubsToDocChangesTemplate",
-  "ResourcesKeys": [],
   "ServerAssemblyName": "DirRX.SubsToDocChangesTemplate.Server",
   "ServerNamespace": "DirRX.SubsToDocChangesTemplate.Server",
   "SharedAssemblyName": "DirRX.SubsToDocChangesTemplate.Shared",
@@ -173,7 +171,7 @@
   "Versions": [
     {
       "Type": "ModuleMetadata",
-      "Number": 9
+      "Number": 11
     },
     {
       "Type": "DomainApi",

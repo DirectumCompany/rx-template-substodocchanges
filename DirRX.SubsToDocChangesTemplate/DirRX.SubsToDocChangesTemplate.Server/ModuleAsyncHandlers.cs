@@ -6,7 +6,7 @@ using Sungero.CoreEntities;
 
 namespace DirRX.SubsToDocChangesTemplate.Server
 {
-  public class ModuleAsyncHandlers
+  public partial class ModuleAsyncHandlers
   {
 
   }

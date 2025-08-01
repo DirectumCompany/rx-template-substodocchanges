@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using Sungero.Core;
@@ -7,7 +7,7 @@ using System.IO;
 
 namespace DirRX.SubsToDocChangesTemplate.Server
 {
-  public class ModuleJobs
+  public partial class ModuleJobs
   {
 
     /// <summary>
