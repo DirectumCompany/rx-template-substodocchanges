@@ -161,12 +161,13 @@
   ],
   "ResourceInterfaceAssemblyName": "Sungero.Domain.Interfaces",
   "ResourceInterfaceNamespace": "DirRX.SubsToDocChangesTemplate",
+  "ResourcesKeys": [],
   "ServerAssemblyName": "DirRX.SubsToDocChangesTemplate.Server",
   "ServerNamespace": "DirRX.SubsToDocChangesTemplate.Server",
   "SharedAssemblyName": "DirRX.SubsToDocChangesTemplate.Shared",
   "SharedNamespace": "DirRX.SubsToDocChangesTemplate.Shared",
   "SpecialFolders": [],
-  "Version": "0.0.1.7",
+  "Version": "0.0.1.8",
   "Widgets": [],
   "Versions": [
     {
