@@ -32,20 +32,22 @@
   "IsolatedAssemblyName": "DirRX.SubsToDocChanges.Isolated",
   "IsolatedNamespace": "DirRX.SubsToDocChanges.Isolated",
   "OrderedSpecialFolders": [],
+  "OverrideSuffix": "DirRX",
   "PublicStructures": [],
   "ResourceInterfaceAssemblyName": "Sungero.Domain.Interfaces",
   "ResourceInterfaceNamespace": "DirRX.SubsToDocChanges",
+  "ResourcesKeys": [],
   "ServerAssemblyName": "DirRX.SubsToDocChanges.Server",
   "ServerNamespace": "DirRX.SubsToDocChanges.Server",
   "SharedAssemblyName": "DirRX.SubsToDocChanges.Shared",
   "SharedNamespace": "DirRX.SubsToDocChanges.Shared",
   "SpecialFolders": [],
-  "Version": "0.0.1.7",
+  "Version": "0.0.1.8",
   "Widgets": [],
   "Versions": [
     {
       "Type": "SolutionMetadata",
-      "Number": 12
+      "Number": 13
     },
     {
       "Type": "ModuleMetadata",
